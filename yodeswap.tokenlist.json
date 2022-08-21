@@ -132,6 +132,15 @@
             "symbol": "cDOGE",
             "decimals": 9,
             "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0xb29923eDd4395867321615D9dDD6FfCa9237228A/logo.png"
+        },
+        {
+            "chainId":2000,
+            "address":"0x17bf86316931eD97896f08De8A2baa355d6192f0",
+            "name":"Doge Chain Capital Token",
+            "symbol":"DCC",
+            "decimals":18,
+            "logoURI":"https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0x17bf86316931eD97896f08De8A2baa355d6192f0/logo.png"
+     
         }
     ]
 }
