@@ -3,7 +3,7 @@
     "timestamp": "2022-06-15T11:14:29.993Z",
     "version": {
         "major": 1,
-        "minor": 4,
+        "minor": 5,
         "patch": 0
     },
     "tags": {},
@@ -13,6 +13,14 @@
         "default"
     ],
     "tokens": [
+        {
+            "chainId": 2000,
+            "address": "0x95d5C32e16E19E0ba9b9A128f63a34a2796fb3df",
+            "name": "Rocket Doge",
+            "symbol": "rDOGE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0x95d5C32e16E19E0ba9b9A128f63a34a2796fb3df/logo.png"
+        },
         {
             "chainId": 2000,
             "address": "0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101",
