@@ -87,6 +87,14 @@
         },
         {
             "chainId": 2000,
+            "address": "0xeF7B2204B5c4DCe2b30600B89e1C11bb881f3564",
+            "symbol": "WTFDOGE",
+            "name": "WTFDOGE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0xeF7B2204B5c4DCe2b30600B89e1C11bb881f3564/logo.png"
+        },
+        {
+            "chainId": 2000,
             "address": "0x1b15b9446b9f632a78396a1680daae17f74ce8d9",
             "symbol": "DOGEPUP",
             "name": "DOGE PUP Token",
