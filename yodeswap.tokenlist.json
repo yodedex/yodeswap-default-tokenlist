@@ -148,6 +148,14 @@
             "symbol": "DC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0x7B4328c127B85369D9f82ca0503B000D09CF9180/logo.png"
-        }
+        },
+        {
+            "chainId": 2000,
+            "address": "0x55BD2a3904C09547c3A5899704f1207eE61878Be",
+            "name": "Dogium",
+            "symbol": "DOGIUM",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0x55BD2a3904C09547c3A5899704f1207eE61878Be/logo.png"
+        },
     ]
 }
