@@ -156,6 +156,14 @@
             "symbol": "DOGIUM",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0x55BD2a3904C09547c3A5899704f1207eE61878Be/logo.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x0DC3E42999535B0979934Fb94188552883A81D47",
+            "name": "Chili Doge",
+            "symbol": "Chili",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0x0DC3E42999535B0979934Fb94188552883A81D47/logo.png"
         }
     ]
 }
