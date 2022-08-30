@@ -1,9 +1,9 @@
 {
     "name": "Yodedex List",
-    "timestamp": "2022-07-16T11:14:29.993Z",
+    "timestamp": "2022-07-17T11:14:29.993Z",
     "version": {
         "major": 2,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     },
     "tags": {},
@@ -156,6 +156,14 @@
             "symbol": "DOGIUM",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0x55BD2a3904C09547c3A5899704f1207eE61878Be/logo.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0xF931ec496a062Ab17077deF06074B7488CcCE08e",
+            "name": "DogeApe",
+            "symbol": "DogeApe",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0xF931ec496a062Ab17077deF06074B7488CcCE08e/logo.png"
         }
     ]
 }
