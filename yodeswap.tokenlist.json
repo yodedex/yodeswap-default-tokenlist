@@ -164,6 +164,14 @@
             "symbol": "DogeApe",
             "decimals": 9,
             "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0xF931ec496a062Ab17077deF06074B7488CcCE08e/logo.png"
+        },
+        {
+	    "chainId":2000,
+	    "address":"0x9Cf5E5F7Bc0903965502267910AdF2F780B5139B",
+	    "name":"DoggyBank",
+	    "symbol":"DGB",
+	    "decimals":9,
+	    "logoURI":"https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0x9Cf5E5F7Bc0903965502267910AdF2F780B5139B/logo.png"
         }
     ]
 }
