@@ -1,9 +1,9 @@
 {
     "name": "Yodedex List",
-    "timestamp": "2022-07-19T11:14:29.993Z",
+    "timestamp": "2022-07-20T11:14:29.993Z",
     "version": {
         "major": 2,
-        "minor": 4,
+        "minor": 5,
         "patch": 0
     },
     "tags": {},
@@ -178,7 +178,7 @@
             "address": "0x0caE51e1032e8461f4806e26332c030E34De3aDb",
             "name": "FKSLURPDEV",
             "symbol": "SLURP",
-            "decimals": 9,
+            "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0x0caE51e1032e8461f4806e26332c030E34De3aDb/logo.png"
         }
     ]
