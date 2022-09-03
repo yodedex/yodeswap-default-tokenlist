@@ -181,5 +181,13 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0x0caE51e1032e8461f4806e26332c030E34De3aDb/logo.png"
         }
+        {
+            "chainId": 2000,
+            "address": "0x3B24C503a605CFa4cf41E983f64A6c9C919Da9De",
+            "name": "Blackball",
+            "symbol": "Blackball",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/BlackballDoge/yodeswap-default-tokenlist/main/assets/dogechain/0x3B24C503a605CFa4cf41E983f64A6c9C919Da9De/logo.png"
+        }
     ]
 }
