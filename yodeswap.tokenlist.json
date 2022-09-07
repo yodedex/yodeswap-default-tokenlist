@@ -14,12 +14,22 @@
     ],
     "tokens": [
         {
-            "chainId": 2000,
-            "address": "0x95d5C32e16E19E0ba9b9A128f63a34a2796fb3df",
-            "name": "Rocket Doge",
-            "symbol": "rDOGE",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0x95d5C32e16E19E0ba9b9A128f63a34a2796fb3df/logo.png"
+            "chainId":2000,
+            "address":"0x9f45c7edAE06591994a64D3D10539de7679a4300",
+            "name":"Moon Doge",
+            "symbol":"mDOGE",
+            "decimals":18,
+            "logoURI":"https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0x9f45c7edAE06591994a64D3D10539de7679a4300/logo.png"
+     
+        },
+        {
+            "chainId":2000,
+            "address":"0x95d5C32e16E19E0ba9b9A128f63a34a2796fb3df",
+            "name":"Rocket Doge",
+            "symbol":"rDOGE",
+            "decimals":18,
+            "logoURI":"https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0x95d5C32e16E19E0ba9b9A128f63a34a2796fb3df/logo.png"
+     
         },
         {
             "chainId": 2000,
