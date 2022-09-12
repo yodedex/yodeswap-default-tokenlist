@@ -1,9 +1,9 @@
 {
     "name": "Yodedex List",
-    "timestamp": "2022-07-20T11:14:29.993Z",
+    "timestamp": "2022-07-25T11:14:29.993Z",
     "version": {
         "major": 2,
-        "minor": 5,
+        "minor": 6,
         "patch": 0
     },
     "tags": {},
@@ -22,13 +22,12 @@
             "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0x95d5C32e16E19E0ba9b9A128f63a34a2796fb3df/logo.png"
         },
         {
-       "chainId":2000,
-       "address":"0xB0EE479CA14b4B6e250511ddD21C7E3856F99dd9",
-       "name":"Hound Token",
-       "symbol":"HOUND",
-       "decimals":18,
-       "logoURI":"https://raw.githubusercontent.com/sanchitdawarsd/logo/master/hound_logo.png"
-
+            "chainId": 2000,
+            "address": "0xB0EE479CA14b4B6e250511ddD21C7E3856F99dd9",
+            "name": "Hound Token",
+            "symbol": "HOUND",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0xB0EE479CA14b4B6e250511ddD21C7E3856F99dd9/logo.png"
         },
         {
             "chainId": 2000,
