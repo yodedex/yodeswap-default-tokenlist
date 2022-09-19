@@ -196,6 +196,15 @@
             "name": "Atlantis Token",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0x338726dd694dB9e2230eC2bB8624a2d7F566C96d/logo.png"
+        },
+        {
+           "chainId":2000,
+           "address":"0x16623a42B2018dAb973B275F084D7ccE8C9efB22",
+           "name”:”Doge Solar”,
+           "symbol”:”DSOLAR”,
+           "decimals":18,
+           "logoURI":"https://dogesolar.net/assets/logo_256x256.png"
         }
+
     ]
 }
