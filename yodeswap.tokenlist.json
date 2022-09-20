@@ -1,9 +1,9 @@
 {
     "name": "Yodedex List",
-    "timestamp": "2022-07-28T11:14:29.993Z",
+    "timestamp": "2022-07-29T11:14:29.993Z",
     "version": {
         "major": 2,
-        "minor": 8,
+        "minor": 9,
         "patch": 0
     },
     "tags": {},
@@ -204,6 +204,13 @@
             "symbol": "DSOLAR",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/dogesolardc/yodeswap-default-tokenlist/main/assets/dogechain/0x16623a42B2018dAb973B275F084D7ccE8C9efB22/logo.png"
+        },
+        {
+            "address": "0xDb00D2e2931835367689353bc8bD06a1c1f903AF",
+            "name": "Dogecapital",
+            "symbol": "DCP",
+            "decimals": 5,
+            "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0xDb00D2e2931835367689353bc8bD06a1c1f903AF/logo.png"
         }
     ]
 }
