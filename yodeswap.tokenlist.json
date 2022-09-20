@@ -1,9 +1,9 @@
 {
     "name": "Yodedex List",
-    "timestamp": "2022-07-27T11:14:29.993Z",
+    "timestamp": "2022-07-28T11:14:29.993Z",
     "version": {
         "major": 2,
-        "minor": 7,
+        "minor": 8,
         "patch": 0
     },
     "tags": {},
@@ -198,12 +198,12 @@
             "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0x338726dd694dB9e2230eC2bB8624a2d7F566C96d/logo.png"
         },
         {
-           "chainId": 2000,
-           "address": "0x16623a42B2018dAb973B275F084D7ccE8C9efB22",
-           "name”: ”Doge Solar”,
-           "symbol”: ”DSOLAR”,
-           "decimals": 18,
-           "logoURI": "https://raw.githubusercontent.com/dogesolardc/yodeswap-default-tokenlist/main/assets/dogechain/0x16623a42B2018dAb973B275F084D7ccE8C9efB22/logo.png"
+            "chainId": 2000,
+            "address": "0x16623a42B2018dAb973B275F084D7ccE8C9efB22",
+            "name": "Doge Solar",
+            "symbol": "DSOLAR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/dogesolardc/yodeswap-default-tokenlist/main/assets/dogechain/0x16623a42B2018dAb973B275F084D7ccE8C9efB22/logo.png"
         }
     ]
 }
