@@ -1,9 +1,9 @@
 {
     "name": "Yodedex List",
-    "timestamp": "2022-07-27T11:14:29.993Z",
+    "timestamp": "2022-07-29T11:14:29.993Z",
     "version": {
         "major": 2,
-        "minor": 7,
+        "minor": 9,
         "patch": 0
     },
     "tags": {},
@@ -198,13 +198,12 @@
             "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0x338726dd694dB9e2230eC2bB8624a2d7F566C96d/logo.png"
         },
         {
-       "chainId":2000,
-       "address": "0x6FC4563460d5f45932C473334d5c1C5B4aEA0E01",
-       "name": "Dogecapital",
-       "symbol": "DCP”,
-       "decimals”: 5,
-       "logoURI":"https://github.com/Dogecapitalventures/yodeswap-default-tokenlist/blob/e08c57a85accf90be3b17d056790c9bc0d55e34f/assets/dogechain/0xDb00D2e2931835367689353bc8bD06a1c1f903AF/logo.png"
-
+            "chainId": 2000,
+            "address": "0xDb00D2e2931835367689353bc8bD06a1c1f903AF",
+            "name": "Dogecapital",
+            "symbol": "DCP",
+            "decimals": 5,
+            "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0xDb00D2e2931835367689353bc8bD06a1c1f903AF/logo.png"
         }
     ]
 }
