@@ -14,6 +14,15 @@
     ],
     "tokens": [
         {
+            "chainId":2000,
+            "address":"0x173373a0814BcE8bd120109135f5a1cDf44b1c1f",
+            "name":"Dogestarter",
+            "symbol":"DOGS",
+            "decimals":18,
+            "logoURI":"https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0x173373a0814BcE8bd120109135f5a1cDf44b1c1f/logo.png"
+     
+        },
+        {
             "chainId": 2000,
             "address": "0xc90163b8d53F319AbE68dd1d8ecC025c72eB3f04",
             "name": "Milk Share",
