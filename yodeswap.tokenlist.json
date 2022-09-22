@@ -1,9 +1,9 @@
 {
     "name": "Yodedex List",
-    "timestamp": "2022-08-01T11:14:29.993Z",
+    "timestamp": "2022-08-02T11:14:29.993Z",
     "version": {
         "major": 3,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
     "tags": {},
@@ -13,6 +13,22 @@
         "default"
     ],
     "tokens": [
+        {
+            "chainId": 2000,
+            "address": "0xc90163b8d53F319AbE68dd1d8ecC025c72eB3f04",
+            "name": "Milk Share",
+            "symbol": "MILK",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/surfacing8671/yodeswap-default-tokenlist/main/assets/dogechain/0xc90163b8d53F319AbE68dd1d8ecC025c72eB3f04/logo.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0xB483CbF402eF2B07060544e4aA4c5690fea32B12",
+            "name": "Cowaii",
+            "symbol": "COWAII",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/surfacing8671/yodeswap-default-tokenlist/main/assets/dogechain/0xB483CbF402eF2B07060544e4aA4c5690fea32B12/logo.png"
+        },
         {
             "chainId": 2000,
             "address": "0x95d5C32e16E19E0ba9b9A128f63a34a2796fb3df",
