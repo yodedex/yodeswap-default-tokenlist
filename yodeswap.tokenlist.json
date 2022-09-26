@@ -1,9 +1,9 @@
 {
     "name": "Yodedex List",
-    "timestamp": "2022-08-02T11:14:29.993Z",
+    "timestamp": "2022-08-04T11:14:29.993Z",
     "version": {
         "major": 3,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     },
     "tags": {},
@@ -228,8 +228,8 @@
             "symbol": "DCP",
             "decimals": 5,
             "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0xDb00D2e2931835367689353bc8bD06a1c1f903AF/logo.png"
-        }
-                {
+        },
+        {
             "chainId": 2000,
             "address": "0x05888e66703c1e79aD5803433CF25a05f18e76C6",
             "name": "HotDoge",
