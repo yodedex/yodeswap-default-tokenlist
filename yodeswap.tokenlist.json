@@ -244,6 +244,14 @@
             "symbol": "HOTDOGE",
             "decimals": 9,
             "logoURI": "https://raw.githubusercontent.com/wardy547/yodeswap-default-tokenlist/main/assets/dogechain/0x05888e66703c1e79aD5803433CF25a05f18e76C6/logo.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x77b5c56d36fd0e9b40d2e9efa26d072c128b3f74",
+            "name": "Banksy",
+            "symbol": "BANKSY",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/wardy547/yodeswap-default-tokenlist/main/assets/dogechain/0x77b5c56d36fd0e9b40d2e9efa26d072c128b3f74/logo.png"
         }
     ]
 }
