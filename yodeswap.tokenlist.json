@@ -244,6 +244,14 @@
             "symbol": "HOTDOGE",
             "decimals": 9,
             "logoURI": "https://raw.githubusercontent.com/wardy547/yodeswap-default-tokenlist/main/assets/dogechain/0x05888e66703c1e79aD5803433CF25a05f18e76C6/logo.png"
+        },
+          {
+            "chainId": 2000,
+            "address": "0xD09ECf3a5F0B3576d99D484C1Aa2ae5fD5D6bd19",
+            "name": "Junkyard Doge",
+            "symbol": "JYD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/wardy547/yodeswap-default-tokenlist/main/assets/dogechain/0xD09ECf3a5F0B3576d99D484C1Aa2ae5fD5D6bd19/logo.png"
         }
     ]
 }
