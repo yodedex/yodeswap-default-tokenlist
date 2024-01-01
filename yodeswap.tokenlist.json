@@ -15,6 +15,14 @@
     "tokens": [
         {
             "chainId": 2000,
+            "address": "0xD4e20bFc66E09b2d94259495Da03d0c00F0AF711",
+            "name": "Finix",
+            "symbol": "FNX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0xD4e20bFc66E09b2d94259495Da03d0c00F0AF711/logo.png"
+        },
+        {
+            "chainId": 2000,
             "address": "0xCF22f35C00dB5eA7ED94da6c176fB488E5dAd9cd",
             "name": "HellHound",
             "symbol": "HLH",
